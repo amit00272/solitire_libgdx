@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chrissy\Desktop\Solitaire_Chupa\Solitaire\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cbfb3ded3e8c67f3a3f10376b10128b620359b16">
+        <dex dex="C:\Users\Chrissy\Desktop\Solitaire_Chupa\Solitaire\android\build\intermediates\pre-dexed\debug\core-1.0-c3cd92ee4db794a3524cf2e13f1a1bc182555ec8.jar" />
+    </item>
+
+</items>

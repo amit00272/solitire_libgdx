@@ -1,0 +1,3 @@
+# Referenced at /Users/noargs/Downloads/Solitaire/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

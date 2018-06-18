@@ -1,0 +1,243 @@
+
+misc.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background1
+  rotate: false
+  xy: 1, 1069
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+background2
+  rotate: false
+  xy: 1, 107
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+background3
+  rotate: false
+  xy: 643, 1069
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+background4
+  rotate: false
+  xy: 643, 107
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+statisticsbackground
+  rotate: false
+  xy: 1285, 1429
+  size: 400, 600
+  orig: 400, 600
+  offset: 0, 0
+  index: -1
+black_rounded
+  rotate: false
+  xy: 1285, 1227
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+btnArchievments
+  rotate: false
+  xy: 1285, 1097
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+btnLeaderBoards
+  rotate: false
+  xy: 1285, 967
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+back1
+  rotate: false
+  xy: 1687, 1750
+  size: 200, 279
+  orig: 200, 279
+  offset: 0, 0
+  index: -1
+back2
+  rotate: false
+  xy: 1285, 686
+  size: 200, 279
+  orig: 200, 279
+  offset: 0, 0
+  index: -1
+back3
+  rotate: false
+  xy: 1687, 1469
+  size: 200, 279
+  orig: 200, 279
+  offset: 0, 0
+  index: -1
+back4
+  rotate: false
+  xy: 1285, 405
+  size: 200, 279
+  orig: 200, 279
+  offset: 0, 0
+  index: -1
+btnStatisticsClose
+  rotate: false
+  xy: 1, 5
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+arrow_down
+  rotate: false
+  xy: 1889, 1901
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+arrow_up
+  rotate: false
+  xy: 1487, 837
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_googleplay
+  rotate: false
+  xy: 1687, 1339
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_hint
+  rotate: false
+  xy: 1285, 275
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_info
+  rotate: false
+  xy: 1889, 1771
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_play
+  rotate: false
+  xy: 1487, 707
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_settings
+  rotate: false
+  xy: 1617, 837
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_statistics
+  rotate: false
+  xy: 1285, 145
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui_undo
+  rotate: false
+  xy: 1889, 1641
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+foundation_refresh
+  rotate: false
+  xy: 1487, 564
+  size: 100, 141
+  orig: 100, 141
+  offset: 0, 0
+  index: -1
+foundation
+  rotate: false
+  xy: 1889, 1500
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+freecell
+  rotate: false
+  xy: 1487, 423
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+phone_landscape
+  rotate: false
+  xy: 203, 20
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+phone_portrait
+  rotate: false
+  xy: 1415, 253
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 1687, 1237
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 1617, 735
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 355, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1, 1
+  size: 100, 2
+  orig: 100, 2
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 2019, 2019
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 1817, 1457
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+black_trans
+  rotate: false
+  xy: 1747, 960
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

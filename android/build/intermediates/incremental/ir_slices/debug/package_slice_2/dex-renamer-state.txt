@@ -1,0 +1,4 @@
+#Wed Jun 06 14:37:31 IST 2018
+base.0=/Users/noargs/Downloads/Solitaire/android/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

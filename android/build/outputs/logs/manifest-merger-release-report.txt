@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/c1cf1eb5ad4ec005ee812ca3faaa7af7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/noargs/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/06009f88acf8405c0001022f0e7d047e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/bec12f513b80848847f510f95b61ed33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/7bd32f602416c18d2d0a7f5cb2d2d4d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/b6ec3d85908c7f1eeb3334d2810345d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/179e438854e87cbc191303236e5bfdcb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/136afb3357a298238def534c52db847f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:4:5-51
+	android:versionName
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml
+		INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml
+		INJECTED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:8:5-74
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/c1cf1eb5ad4ec005ee812ca3faaa7af7/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/c1cf1eb5ad4ec005ee812ca3faaa7af7/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.2] /Users/noargs/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/06009f88acf8405c0001022f0e7d047e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/noargs/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/06009f88acf8405c0001022f0e7d047e/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/bec12f513b80848847f510f95b61ed33/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/bec12f513b80848847f510f95b61ed33/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/7bd32f602416c18d2d0a7f5cb2d2d4d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/7bd32f602416c18d2d0a7f5cb2d2d4d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/b6ec3d85908c7f1eeb3334d2810345d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/b6ec3d85908c7f1eeb3334d2810345d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/179e438854e87cbc191303236e5bfdcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/179e438854e87cbc191303236e5bfdcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/136afb3357a298238def534c52db847f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/136afb3357a298238def534c52db847f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/c1cf1eb5ad4ec005ee812ca3faaa7af7/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:8:42-71
+	android:minSdkVersion
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:8:15-41
+uses-permission#android.permission.INTERNET
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:15:5-128
+	tools:node
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:15:106-125
+	android:maxSdkVersion
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:15:79-105
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:16:5-101
+	tools:node
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:16:79-98
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:17:5-91
+	tools:node
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:17:69-88
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:17:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:18:5-94
+	tools:node
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:18:72-91
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:18:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:19:5-95
+	tools:node
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:19:73-92
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:19:22-72
+application
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:21:5-43:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/bec12f513b80848847f510f95b61ed33/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/bec12f513b80848847f510f95b61ed33/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/7bd32f602416c18d2d0a7f5cb2d2d4d2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/7bd32f602416c18d2d0a7f5cb2d2d4d2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/b6ec3d85908c7f1eeb3334d2810345d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/b6ec3d85908c7f1eeb3334d2810345d4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/179e438854e87cbc191303236e5bfdcb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/179e438854e87cbc191303236e5bfdcb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/136afb3357a298238def534c52db847f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/136afb3357a298238def534c52db847f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:25:9-40
+activity#com.yourcompany.solitaire.android.AndroidLauncher
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:26:9-35:20
+	android:screenOrientation
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:30:13-83
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:27:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:33:27-74
+activity#com.chartboost.sdk.CBImpressionActivity
+ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:37:3-41:77
+	android:excludeFromRecents
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:38:13-46
+	android:hardwareAccelerated
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:39:13-47
+	android:configChanges
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:41:13-74
+	android:theme
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:40:13-83
+	android:name
+		ADDED from /Users/noargs/Downloads/Solitaire/android/AndroidManifest.xml:37:13-67
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/d9a8627888393449849454c55c94f887/AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/noargs/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/5e60cad3430a5c3f8e0e48742165c2b9/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/9dd94a8a30b7e591d5db1e5783bad013/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c8ada8ea67f30456c5b01a60f6130dcb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/efabf95010ced3133b58004153fc9ff5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33630e51c6edfdbd3fad2ed6da0af966/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/496580ae662e21f16c97a248dadabbfa/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74663fca46831a086bc1588808ba8fc5/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/noargs/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b92b72355a9f73f200ea600270fbc4b0/AndroidManifest.xml:26:13-58
